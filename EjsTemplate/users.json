@@ -1,0 +1,88 @@
+{
+    "users": [
+        {
+            "fullname": "krima trivedi",
+            "username": "krima",
+            "password": "password345",
+            "email": "krima@temp.com",
+            "phoneNumber": "8780984567"
+        },
+        {
+            "fullname": "drima trivedi",
+            "username": "drima",
+            "password": "password1245",
+            "email": "drima@temp.com",
+            "phoneNumber": "9780984567"
+        },
+        {
+            "fullname": "sona hbjb",
+            "username": "sona",
+            "password": "password888",
+            "email": "sona@temp.com",
+            "phoneNumber": "7780984567"
+        },
+        {
+            "fullname": "sonam smcwd",
+            "username": "sonam",
+            "password": "password888",
+            "email": "sonam@temp.com",
+            "phoneNumber": "7780984567"
+        },
+        {
+            "fullname": "kiran smcwd",
+            "username": "kiran",
+            "password": "password3454",
+            "email": "kiran@temp.com",
+            "phoneNumber": "9980984567"
+        },
+        {
+            "fullname": "miren smcwd",
+            "username": "miren",
+            "password": "password89454",
+            "email": "miren@temp.com",
+            "phoneNumber": "907984567"
+        },
+        {
+            "fullname": "miren smcwd",
+            "username": "mirensfsa",
+            "password": "password89454",
+            "email": "mirendcs@temp.com",
+            "phoneNumber": "907984567"
+        },
+        {
+            "fullname": "jinal smcwd",
+            "username": "jinal",
+            "password": "password4",
+            "email": "jinal@temp.com",
+            "phoneNumber": "807984567"
+        },
+        {
+            "fullname": "jinal smcwd",
+            "username": "jigna",
+            "password": "password4",
+            "email": "jigna@temp.com",
+            "phoneNumber": "807984567"
+        },
+        {
+            "fullname": "jeel smcwd",
+            "username": "jeel",
+            "password": "password4",
+            "email": "jeel@temp.com",
+            "phoneNumber": "807984567"
+        },
+        {
+            "fullname": "zeel smcwd",
+            "username": "zeel",
+            "password": "password4",
+            "email": "zeel@temp.com",
+            "phoneNumber": "807984567"
+        },
+        {
+            "fullname": "kira smcwd",
+            "username": "kira",
+            "password": "password3454",
+            "email": "kira@temp.com",
+            "phoneNumber": "9980984567"
+        }
+    ]
+}
